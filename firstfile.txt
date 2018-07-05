@@ -1,2 +1,3 @@
-This is my first file in Git Repo
+This is my first file in Git Repo.
+I am editing this file to verify pull method.
 
